@@ -1,0 +1,10 @@
+<div class="mini_slide" style="border-color: #9B6B1B;">
+  <div class="mini_image">
+    <img id="preview_image" src="https://depan.s3.amazonaws.com/slide_image/file/79/thumb_stand_01.gif" />
+  </div>
+      <div class="mini_text" style="color: #9B6B1B;">
+        <p>esto permite que el stand pueda ser reutilizado de otras maneras</p>
+
+      </div>
+</div>
+

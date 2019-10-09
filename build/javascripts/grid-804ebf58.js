@@ -1,0 +1,1 @@
+(function(){var n,t;t=0,n=3e4,$(function(){return $(".autoscroll").animate({scrollLeft:n},t,"swing",function(){return $("#time-panel .line").fadeIn()})})}).call(this);

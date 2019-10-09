@@ -1,0 +1,10 @@
+<div class="mini_slide" style="border-color: #EC341D;">
+  <div class="mini_image">
+    <img id="preview_image" src="https://depan.s3.amazonaws.com/slide_image/file/638/thumb_la_panoleta_09.jpg" />
+  </div>
+      <div class="mini_text" style="color: #EC341D;">
+        <p>las primeras pruebas de azulejos de fachada de nolo</p>
+
+      </div>
+</div>
+

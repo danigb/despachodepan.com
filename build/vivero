@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="description" content="Despacho de pan web site">
+    <meta name="author" content="La panadería s.l.c">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="timestamp" content="2014-09-02 17:18:42 +0200">
+<title>l a p a n a d e r í a : </title>
+    <link href="/stylesheets/application-aefcba77.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body id="cards">
+    <div id="central">
+      <div id="playground">
+        <a href="/lapanaderia" id="logo">La Panadería</a>
+        <div id="social">
+  <div class="fb-like" data-href="http://despachodepan.con" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false"></div>
+  <div class="buttons">
+    <a class="facebook" href="https://www.facebook.com/pages/Lapanaderia-arquitectura/130813683683669">La panadería en facebook</a>
+    <a class="twitter" href="http://twitter.com/#!/despachodepan">La panadería en twitter</a>
+    <a class="linkedin" href="http://www.linkedin.com/company/lapanaderia-arquitectura-y-dise-o">La panadería en linkedin</a>
+    <a class="flickr" href="http://www.flickr.com/photos/lapanaderia-arquitectura/sets/">La panadería en flickr</a>
+    <span class="cc">Algunos derechos reservados</span>
+  </div>
+</div>
+
+        <ul id="tabs">
+  <li id="nav-actual" class=""><a href="/">noticias</a></li>
+  <li id="nav-seleccion" class=""><a href="/que-hacemos">qué hacemos</a></li>
+  <li id="nav-indice" class=""><a href="/procesos">procesos</a></li>
+  <li id="nav-panaderia" class="">
+    <a href="/lapanaderia">quiénes somos</a>
+  </li>
+  <li id="nav-casamasomenos" class="">
+    <a href="/casa-mas-o-menos">casamasomenos</a>
+  </li>
+</ul>
+
+
+        <style type="text/css">
+    #slide_controls a.selected {
+        color: #327D25;
+    }
+
+    #tabs li {
+        border-bottom: 1px solid #327D25;
+    }
+</style>
+
+
+<div id="title" style=" border-left: 1px solid #327D25; border-top: 1px solid #327D25; border-right: 1px solid #327D25">
+  <span style="color: #327D25;">vivero</span>
+</div>
+
+<div id="card" style="border: 1px solid #327D25;"
+ data-card-id="14" data-card-slug="vivero">
+<div id="properties" class="card_element"
+   style="background-color: #F0FFF3; color: #327D25;">
+
+<div id="files" style="top: 168px;">
+      <div class="prop_separator">&nbsp;</div>
+      <div class="card_file">
+        <img src="/images/file-22e66952.gif" />
+        <div><a popup="[&quot;_blank&quot;]" style="color: #327D25;" href="https://depan.s3.amazonaws.com/pan_file/file/728/of001_vivero_planos.pdf">planos A3</a>    </div>
+      </div>
+      <div class="prop_separator">&nbsp;</div>
+      <div class="card_file">
+        <img src="/images/file-22e66952.gif" />
+        <div><a popup="[&quot;_blank&quot;]" style="color: #327D25;" href="https://depan.s3.amazonaws.com/pan_file/file/793/of001_vivero.pdf">ficha resumen</a>    </div>
+      </div>
+      <div class="prop_separator">&nbsp;</div>
+      <div class="card_file">
+        <img src="/images/file-22e66952.gif" />
+        <div><a popup="[&quot;_blank&quot;]" style="color: #327D25;" href="https://depan.s3.amazonaws.com/pan_file/file/806/conarquitectura_n26_oficinas_turbepal.pdf">publicacion conarquitectura nº26</a>    </div>
+      </div>
+</div>
+
+
+
+    <div class="prop_name">uso</div>
+    <div class="prop_value"><p>oficinas</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name">lugar</div>
+    <div class="prop_value"><p>villanueva de rio y minas, sevilla</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name">superficie</div>
+    <div class="prop_value"><p>486 m2</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name">promotor</div>
+    <div class="prop_value"><p>turbepal s.l.</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name">colaboradores</div>
+    <div class="prop_value"><p>beatriz gerena, maite jaraba</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name">fotografía</div>
+    <div class="prop_value"><p>jorge yeregui - lapanaderia</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+
+</div>
+
+
+<div id="main_image" class="card_element">
+<img src="https://depan.s3.amazonaws.com/main_image/file/32/main.jpg" />
+</div>
+
+
+<div id="main_text" class="card_element">
+<div id="text_flow">
+  <p>El proyecto es una transformación de un edificio de principios de siglo (el antiguo ayuntamiento del pueblo) en la sede de empresa dedicada a la producción de plantas forestales autóctonas, un vivero.</p>
+
+<p>En el vivero se da una superposición entre lo nátural y lo industrial, es una “fábrica” de plantas. La propuesta para la intervención en el edificio pretende conjugar esos dos aspectos. Se potencia el suelo como soporte físico y visual, mediante un nuevo pavimento de baldosas hidráulicas, diseñadas para este proyecto, que mediante una combinación aleatoria de 2 piezas con motivos geométricos generan un nuevo “estrato orgánico” que unifica los espacios de trabajo.</p>
+
+<p>El edificio se “limpia” de elementos superficiales, (instalaciones existentes...etc) para mantener el techo y las paredes en blanco, potenciando asi, el caracter masivo de los muros de carga y la estructura clara del edificio, convirtiendolo en un contenedor neutro.</p>
+
+<p>Se eliminan los tabiques existentes y se amplian los huecos de puertas, para conseguir vistas longitudinales que abarquen toda la crujia,  y para generar una sensación de transparencia y claridad en el trabajo.</p>
+
+<p>Las nuevas particiones verticales, de madera y vidrio, se relacionan con las ventanas preexistentes adoptando una geometria que marca la diferencia entre lo viejo y lo nuevo y que dan continuidad a la luz proveniente de las ventanas.</p>
+
+</div>
+</div>
+<div id="scroll_down" class="scrollers" style="display: none"></div>
+<div id="scroll_up" class="scrollers" style="display: none"></div>
+
+
+<!-- slides -->
+  <div id="slides" class="card_element"
+       data-firstId="96"
+       data-lastId="399">
+        <div id="slideImage5" class="slide" style="display: none">
+          <img alt="nos atrajo desde el principio el caracter geometrico del vivero..." size="300x400" src="https://depan.s3.amazonaws.com/slide_image/file/96/vivero_03.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>nos atrajo desde el principio el caracter geometrico del vivero...</p>
+
+          </div>
+          <div id="slideNumber5" style="display: none;">5</div>
+        </div>
+        <div id="slideImage9" class="slide" style="display: none">
+          <img alt="rehabilitación de oficinas para turbepal s.l." size="302x400" src="https://depan.s3.amazonaws.com/slide_image/file/97/vivero_04.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>rehabilitación de oficinas para turbepal s.l.</p>
+
+          </div>
+          <div id="slideNumber9" style="display: none;">9</div>
+        </div>
+        <div id="slideImage13" class="slide" style="display: none">
+          <img alt="" size="298x400" src="https://depan.s3.amazonaws.com/slide_image/file/98/vivero_06.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber13" style="display: none;">13</div>
+        </div>
+        <div id="slideImage11" class="slide" style="display: none">
+          <img alt="" size="300x400" src="https://depan.s3.amazonaws.com/slide_image/file/99/vivero_11.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber11" style="display: none;">11</div>
+        </div>
+        <div id="slideImage14" class="slide" style="display: none">
+          <img alt="" size="443x137" src="https://depan.s3.amazonaws.com/slide_image/file/178/12.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber14" style="display: none;">14</div>
+        </div>
+        <div id="slideImage2" class="slide" style="display: none">
+          <img alt="el edificio se encontraba deteriorado y con algunas zonas sin uso, la estructura era de muro de carga de carboncilla (tapial hecho con restos de excavaciones mineras)" size="435x348" src="https://depan.s3.amazonaws.com/slide_image/file/325/02.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>el edificio se encontraba deteriorado y con algunas zonas sin uso, la estructura era de muro de carga de carboncilla (tapial hecho con restos de excavaciones mineras)</p>
+
+          </div>
+          <div id="slideNumber2" style="display: none;">2</div>
+        </div>
+        <div id="slideImage10" class="slide" style="display: none">
+          <img alt="se eliminó parte del forjado existente en la ultima planta sin uso para abrir un espacio a doble altura que funcionara como recibidor entre la entrada principal y la trasera a traves del patio." size="287x380" src="https://depan.s3.amazonaws.com/slide_image/file/326/05.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>se eliminó parte del forjado existente en la ultima planta sin uso para abrir un espacio a doble altura que funcionara como recibidor entre la entrada principal y la trasera a traves del patio.</p>
+
+          </div>
+          <div id="slideNumber10" style="display: none;">10</div>
+        </div>
+        <div id="slideImage15" class="slide" style="display: none">
+          <img alt="" size="440x331" src="https://depan.s3.amazonaws.com/slide_image/file/327/13.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber15" style="display: none;">15</div>
+        </div>
+        <div id="slideImage1" class="slide" style="display: none">
+          <img alt="" size="443x209" src="https://depan.s3.amazonaws.com/slide_image/file/329/01.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber1" style="display: none;">1</div>
+        </div>
+        <div id="slideImage6" class="slide" style="display: none">
+          <img alt="el suelo debia ser el elemento que caracterizara el nuevo espacio de trabajo" size="420x226" src="https://depan.s3.amazonaws.com/slide_image/file/389/08.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>el suelo debia ser el elemento que caracterizara el nuevo espacio de trabajo</p>
+
+          </div>
+          <div id="slideNumber6" style="display: none;">6</div>
+        </div>
+        <div id="slideImage7" class="slide" style="display: none">
+          <img alt="" size="420x276" src="https://depan.s3.amazonaws.com/slide_image/file/390/10.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber7" style="display: none;">7</div>
+        </div>
+        <div id="slideImage8" class="slide" style="display: none">
+          <img alt="" size="420x275" src="https://depan.s3.amazonaws.com/slide_image/file/391/09.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber8" style="display: none;">8</div>
+        </div>
+        <div id="slideImage3" class="slide" style="display: none">
+          <img alt="la cubierta existente se sustituyo por una azotea transitable" size="420x236" src="https://depan.s3.amazonaws.com/slide_image/file/396/14.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>la cubierta existente se sustituyo por una azotea transitable</p>
+
+          </div>
+          <div id="slideNumber3" style="display: none;">3</div>
+        </div>
+        <div id="slideImage4" class="slide" style="display: none">
+          <img alt="la mayoria de forjados se sustituyeron" size="420x395" src="https://depan.s3.amazonaws.com/slide_image/file/397/15.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>la mayoria de forjados se sustituyeron</p>
+
+          </div>
+          <div id="slideNumber4" style="display: none;">4</div>
+        </div>
+        <div id="slideImage12" class="slide" style="display: none">
+          <img alt="la doble escalera de subida era un elemento curioso del antiguo ayuntamiento" size="289x395" src="https://depan.s3.amazonaws.com/slide_image/file/399/07.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>la doble escalera de subida era un elemento curioso del antiguo ayuntamiento</p>
+
+          </div>
+          <div id="slideNumber12" style="display: none;">12</div>
+        </div>
+  </div>
+
+  <div id="slide_controls" class="card_element">
+    <a id="slideFirst" class="arrow" href="#"><img alt="primera" src="/images/arrowleft1-02a0feef.gif" /></a>
+    <a id="slidePrev" class="arrow" href="#"><img alt="anterior" src="/images/arrowleft2-629713c3.gif" /></a>
+    &nbsp;<span id="number_control"></span> / <span>15</span>&nbsp;
+    <a id="slideNext" class="arrow" href="#"><img alt="siguiente" src="/images/arrowright1-842aef87.gif" /></a>
+    <a id="slideLast" class="arrow" href="#"><img alt="última" src="/images/arrowright2-50f8cf92.gif" /></a>
+  </div>
+</div>
+
+      </div>
+    </div>
+    <script src="/javascripts/application-6fdb9dbc.js" type="text/javascript"></script>
+    <!-- Facebook -->
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/es_ES/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+    try {
+        var pageTracker = _gat._getTracker("UA-1584724-6");
+        pageTracker._trackPageview();
+    } catch(err) {
+    }
+</script>
+<div style="display:none" id="APP-VERSION">1.2.0 </div>
+
+  </body>
+</html>

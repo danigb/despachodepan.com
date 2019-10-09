@@ -1,0 +1,10 @@
+<div class="mini_slide" style="border-color: #80B70E;">
+  <div class="mini_image">
+    <img id="preview_image" src="https://depan.s3.amazonaws.com/slide_image/file/559/thumb_03.jpg" />
+  </div>
+      <div class="mini_text" style="color: #80B70E;">
+        <p>13 vpo en villa del rio</p>
+
+      </div>
+</div>
+

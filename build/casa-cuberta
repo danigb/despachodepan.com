@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="description" content="Despacho de pan web site">
+    <meta name="author" content="La panadería s.l.c">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="timestamp" content="2014-09-02 17:18:42 +0200">
+<title>l a p a n a d e r í a : </title>
+    <link href="/stylesheets/application-aefcba77.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body id="cards">
+    <div id="central">
+      <div id="playground">
+        <a href="/lapanaderia" id="logo">La Panadería</a>
+        <div id="social">
+  <div class="fb-like" data-href="http://despachodepan.con" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false"></div>
+  <div class="buttons">
+    <a class="facebook" href="https://www.facebook.com/pages/Lapanaderia-arquitectura/130813683683669">La panadería en facebook</a>
+    <a class="twitter" href="http://twitter.com/#!/despachodepan">La panadería en twitter</a>
+    <a class="linkedin" href="http://www.linkedin.com/company/lapanaderia-arquitectura-y-dise-o">La panadería en linkedin</a>
+    <a class="flickr" href="http://www.flickr.com/photos/lapanaderia-arquitectura/sets/">La panadería en flickr</a>
+    <span class="cc">Algunos derechos reservados</span>
+  </div>
+</div>
+
+        <ul id="tabs">
+  <li id="nav-actual" class=""><a href="/">noticias</a></li>
+  <li id="nav-seleccion" class=""><a href="/que-hacemos">qué hacemos</a></li>
+  <li id="nav-indice" class=""><a href="/procesos">procesos</a></li>
+  <li id="nav-panaderia" class="">
+    <a href="/lapanaderia">quiénes somos</a>
+  </li>
+  <li id="nav-casamasomenos" class="">
+    <a href="/casa-mas-o-menos">casamasomenos</a>
+  </li>
+</ul>
+
+
+        <style type="text/css">
+    #slide_controls a.selected {
+        color: #EC341D;
+    }
+
+    #tabs li {
+        border-bottom: 1px solid #EC341D;
+    }
+</style>
+
+
+<div id="title" style=" border-left: 1px solid #EC341D; border-top: 1px solid #EC341D; border-right: 1px solid #EC341D">
+  <span style="color: #EC341D;">casa cuberta</span>
+</div>
+
+<div id="card" style="border: 1px solid #EC341D;"
+ data-card-id="17" data-card-slug="casa-cuberta">
+<div id="properties" class="card_element"
+   style="background-color: #faf1f1; color: #EC341D;">
+
+<div id="files" style="top: 168px;">
+      <div class="prop_separator">&nbsp;</div>
+      <div class="card_file">
+        <img src="/images/file-22e66952.gif" />
+        <div><a popup="[&quot;_blank&quot;]" style="color: #EC341D;" href="https://depan.s3.amazonaws.com/pan_file/file/735/vu009_casa_cuberta_planos.pdf">planos A3</a>    </div>
+      </div>
+      <div class="prop_separator">&nbsp;</div>
+      <div class="card_file">
+        <img src="/images/file-22e66952.gif" />
+        <div><a popup="[&quot;_blank&quot;]" style="color: #EC341D;" href="https://depan.s3.amazonaws.com/pan_file/file/790/vu008_casa_cuberta.pdf">ficha resumen</a>    </div>
+      </div>
+      <div class="prop_separator">&nbsp;</div>
+      <div class="card_file">
+        <img src="/images/file-22e66952.gif" />
+        <div><a popup="[&quot;_blank&quot;]" style="color: #EC341D;" href="https://depan.s3.amazonaws.com/pan_file/file/808/publicaciones_-_conarquitectura_n_26_-_neutra_n_16.pdf">publicaciones:conarquitectura n26/neutra n16</a>    </div>
+      </div>
+</div>
+
+
+
+    <div class="prop_name">uso</div>
+    <div class="prop_value"><p>vivienda unifamiliar</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name">lugar</div>
+    <div class="prop_value"><p>gerena, sevilla</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name">superficie</div>
+    <div class="prop_value"><p>125 m2</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name">promotor</div>
+    <div class="prop_value"><p>daniel cuberta touzon</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name">colaboradores</div>
+    <div class="prop_value"><p>beatriz gerena</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name">arquitecto técnico</div>
+    <div class="prop_value"><p>jesús miguel villa</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name">fotografía</div>
+    <div class="prop_value"><p>jorge yeregui - lapanaderia</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+
+</div>
+
+
+<div id="main_image" class="card_element">
+<img src="https://depan.s3.amazonaws.com/main_image/file/29/cuberta_14.jpg" />
+</div>
+
+
+<div id="main_text" class="card_element">
+<div id="text_flow">
+  <p>El padre de un amigo compró un solar en un pueblo cercano a Sevilla para vivir allí y nos encargó el proyecto. la pregunta que nos hicimos fue ¿Cómo hacer una casa “de pueblo” hoy? </p>
+
+<p>A nivel de implantación, la vivienda se dispone en zigzag a lo largo de la parcela creando patios y jardines vinculados a los espacios vivideros. esta disposición permite una mayor relación entre los espacios interiores y exteriores, y una sensación de mayor amplitud.</p>
+
+<p>Formalmente el proyecto parte de su entorno inmediato, una zona “trasera” del pueblo donde se mezclan viviendas unifamiliares con talleres y pequeños edificios industriales y agrícolas. 
+El bloque de hormigón, el panel ondulado de fibrocemento, la chapa galvanizada, etc. se toman como materiales básicos con los que construir una vivienda integrada en su entorno, pero actual. </p>
+
+<p>Desde el punto de vista constructivo se plantean muros de carga de Termoarcilla buscando el aumento de la inercia térmica de la vivienda así como la reducción del coste económico eliminando la duplicidad cerramiento–estructura.
+Para evitar la radiación solar directa la cubiertas se plantean ventiladas con planchas de fibrocemento pintadas de blanco sobre tabiques palomeros; y en las fachadas de planta primera se colocan las mismas planchas atornilladas sobre la Termoarcilla para formar una cámara ventilada que impide el recalentamiento del cerramiento. 
+Se confía en 4 ventiladores de techo y dos toldos para el frescor de la casa en verano y los colectores solares se colocan sobre la cubierta inclinada del lavadero.</p>
+
+</div>
+</div>
+<div id="scroll_down" class="scrollers" style="display: none"></div>
+<div id="scroll_up" class="scrollers" style="display: none"></div>
+
+
+<!-- slides -->
+  <div id="slides" class="card_element"
+       data-firstId="170"
+       data-lastId="463">
+        <div id="slideImage1" class="slide" style="display: none">
+          <img alt="la parcela estaba al lado de una vieja plaza de toros de chapa, en una zona de fachadas traseras" size="440x330" src="https://depan.s3.amazonaws.com/slide_image/file/170/cuberta_01.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>la parcela estaba al lado de una vieja plaza de toros de chapa, en una zona de fachadas traseras</p>
+
+          </div>
+          <div id="slideNumber1" style="display: none;">1</div>
+        </div>
+        <div id="slideImage2" class="slide" style="display: none">
+          <img alt="nos gustó el aspecto sencillo y directo de algunas construcciones" size="440x177" src="https://depan.s3.amazonaws.com/slide_image/file/171/cuberta_02.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>nos gustó el aspecto sencillo y directo de algunas construcciones</p>
+
+          </div>
+          <div id="slideNumber2" style="display: none;">2</div>
+        </div>
+        <div id="slideImage17" class="slide" style="display: none">
+          <img alt="arriba hay un estudio que da a una terraza para salir" size="276x400" src="https://depan.s3.amazonaws.com/slide_image/file/172/cuberta_03.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>arriba hay un estudio que da a una terraza para salir</p>
+
+          </div>
+          <div id="slideNumber17" style="display: none;">17</div>
+        </div>
+        <div id="slideImage16" class="slide" style="display: none">
+          <img alt="" size="302x400" src="https://depan.s3.amazonaws.com/slide_image/file/173/cuberta_04.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber16" style="display: none;">16</div>
+        </div>
+        <div id="slideImage15" class="slide" style="display: none">
+          <img alt="la disposicion de los patios hace que se amplien los espacios de la casa" size="440x298" src="https://depan.s3.amazonaws.com/slide_image/file/174/cuberta_06.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>la disposicion de los patios hace que se amplien los espacios de la casa</p>
+
+          </div>
+          <div id="slideNumber15" style="display: none;">15</div>
+        </div>
+        <div id="slideImage12" class="slide" style="display: none">
+          <img alt="el garaje y la puerta de la casa" size="440x319" src="https://depan.s3.amazonaws.com/slide_image/file/175/cuberta_07.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>el garaje y la puerta de la casa</p>
+
+          </div>
+          <div id="slideNumber12" style="display: none;">12</div>
+        </div>
+        <div id="slideImage14" class="slide" style="display: none">
+          <img alt="y el jardin trasero..." size="302x400" src="https://depan.s3.amazonaws.com/slide_image/file/176/cuberta_09.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>y el jardin trasero...</p>
+
+          </div>
+          <div id="slideNumber14" style="display: none;">14</div>
+        </div>
+        <div id="slideImage19" class="slide" style="display: none">
+          <img alt="" size="439x332" src="https://depan.s3.amazonaws.com/slide_image/file/177/cuberta_11.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber19" style="display: none;">19</div>
+        </div>
+        <div id="slideImage9" class="slide" style="display: none">
+          <img alt="vivienda unifamiliar en gerena" size="430x325" src="https://depan.s3.amazonaws.com/slide_image/file/224/cuberta_12.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>vivienda unifamiliar en gerena</p>
+
+          </div>
+          <div id="slideNumber9" style="display: none;">9</div>
+        </div>
+        <div id="slideImage4" class="slide" style="display: none">
+          <img alt="" size="420x248" src="https://depan.s3.amazonaws.com/slide_image/file/439/cuberta_15.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber4" style="display: none;">4</div>
+        </div>
+        <div id="slideImage8" class="slide" style="display: none">
+          <img alt="el bloque de hormigón blanco se separaba haciendo que fachada y tapia fueran la misma cosa" size="289x385" src="https://depan.s3.amazonaws.com/slide_image/file/441/cuberta_16.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>el bloque de hormigón blanco se separaba haciendo que fachada y tapia fueran la misma cosa</p>
+
+          </div>
+          <div id="slideNumber8" style="display: none;">8</div>
+        </div>
+        <div id="slideImage18" class="slide" style="display: none">
+          <img alt="" size="420x207" src="https://depan.s3.amazonaws.com/slide_image/file/442/cuberta_17.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber18" style="display: none;">18</div>
+        </div>
+        <div id="slideImage6" class="slide" style="display: none">
+          <img alt="el trazado electrico de interruptores se llevo por encima de los huecos, enfoscando a partir de 2,10m de altura, y de ahi bajaban" size="289x385" src="https://depan.s3.amazonaws.com/slide_image/file/443/cuberta_19.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>el trazado electrico de interruptores se llevo por encima de los huecos, enfoscando a partir de 2,10m de altura, y de ahi bajaban</p>
+
+          </div>
+          <div id="slideNumber6" style="display: none;">6</div>
+        </div>
+        <div id="slideImage7" class="slide" style="display: none">
+          <img alt="el trazado de los enchufes se hizo tras el rodapié" size="289x385" src="https://depan.s3.amazonaws.com/slide_image/file/444/cuberta_20.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>el trazado de los enchufes se hizo tras el rodapié</p>
+
+          </div>
+          <div id="slideNumber7" style="display: none;">7</div>
+        </div>
+        <div id="slideImage13" class="slide" style="display: none">
+          <img alt="el patio interior del espacio de estar, que tambien tendrá un arbol...." size="361x395" src="https://depan.s3.amazonaws.com/slide_image/file/446/cuberta_23.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>el patio interior del espacio de estar, que tambien tendrá un arbol....</p>
+
+          </div>
+          <div id="slideNumber13" style="display: none;">13</div>
+        </div>
+        <div id="slideImage11" class="slide" style="display: none">
+          <img alt="primero un patio que tendrá un arbolito vinculado a la cocina y al lavadero" size="420x314" src="https://depan.s3.amazonaws.com/slide_image/file/447/cuberta_22.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>primero un patio que tendrá un arbolito vinculado a la cocina y al lavadero</p>
+
+          </div>
+          <div id="slideNumber11" style="display: none;">11</div>
+        </div>
+        <div id="slideImage5" class="slide" style="display: none">
+          <img alt="queriamos trabajar con los materiales de una manera muy inmediata, dejar vista la termoarcilla del muro de carga" size="289x385" src="https://depan.s3.amazonaws.com/slide_image/file/449/cuberta_21.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>queriamos trabajar con los materiales de una manera muy inmediata, dejar vista la termoarcilla del muro de carga</p>
+
+          </div>
+          <div id="slideNumber5" style="display: none;">5</div>
+        </div>
+        <div id="slideImage10" class="slide" style="display: none">
+          <img alt="" size="286x395" src="https://depan.s3.amazonaws.com/slide_image/file/450/cuberta_18.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber10" style="display: none;">10</div>
+        </div>
+        <div id="slideImage3" class="slide" style="display: none">
+          <img alt="fué una buena experiencia trabajar con salvador, el jefe de obra" size="296x395" src="https://depan.s3.amazonaws.com/slide_image/file/463/cuberta_24.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>fué una buena experiencia trabajar con salvador, el jefe de obra</p>
+
+          </div>
+          <div id="slideNumber3" style="display: none;">3</div>
+        </div>
+  </div>
+
+  <div id="slide_controls" class="card_element">
+    <a id="slideFirst" class="arrow" href="#"><img alt="primera" src="/images/arrowleft1-02a0feef.gif" /></a>
+    <a id="slidePrev" class="arrow" href="#"><img alt="anterior" src="/images/arrowleft2-629713c3.gif" /></a>
+    &nbsp;<span id="number_control"></span> / <span>19</span>&nbsp;
+    <a id="slideNext" class="arrow" href="#"><img alt="siguiente" src="/images/arrowright1-842aef87.gif" /></a>
+    <a id="slideLast" class="arrow" href="#"><img alt="última" src="/images/arrowright2-50f8cf92.gif" /></a>
+  </div>
+</div>
+
+      </div>
+    </div>
+    <script src="/javascripts/application-6fdb9dbc.js" type="text/javascript"></script>
+    <!-- Facebook -->
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/es_ES/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+    try {
+        var pageTracker = _gat._getTracker("UA-1584724-6");
+        pageTracker._trackPageview();
+    } catch(err) {
+    }
+</script>
+<div style="display:none" id="APP-VERSION">1.2.0 </div>
+
+  </body>
+</html>

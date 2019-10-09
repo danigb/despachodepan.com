@@ -1,0 +1,10 @@
+<div class="mini_slide" style="border-color: #EC341D;">
+  <div class="mini_image">
+    <img id="preview_image" src="https://depan.s3.amazonaws.com/slide_image/file/417/thumb_marta_isra_09.jpg" />
+  </div>
+      <div class="mini_text" style="color: #EC341D;">
+        <p>...una vivienda con múltiples caras...</p>
+
+      </div>
+</div>
+

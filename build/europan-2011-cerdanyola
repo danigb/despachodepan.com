@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="description" content="Despacho de pan web site">
+    <meta name="author" content="La panadería s.l.c">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="timestamp" content="2014-09-02 17:18:44 +0200">
+<title>l a p a n a d e r í a : </title>
+    <link href="/stylesheets/application-aefcba77.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body id="cards">
+    <div id="central">
+      <div id="playground">
+        <a href="/lapanaderia" id="logo">La Panadería</a>
+        <div id="social">
+  <div class="fb-like" data-href="http://despachodepan.con" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false"></div>
+  <div class="buttons">
+    <a class="facebook" href="https://www.facebook.com/pages/Lapanaderia-arquitectura/130813683683669">La panadería en facebook</a>
+    <a class="twitter" href="http://twitter.com/#!/despachodepan">La panadería en twitter</a>
+    <a class="linkedin" href="http://www.linkedin.com/company/lapanaderia-arquitectura-y-dise-o">La panadería en linkedin</a>
+    <a class="flickr" href="http://www.flickr.com/photos/lapanaderia-arquitectura/sets/">La panadería en flickr</a>
+    <span class="cc">Algunos derechos reservados</span>
+  </div>
+</div>
+
+        <ul id="tabs">
+  <li id="nav-actual" class=""><a href="/">noticias</a></li>
+  <li id="nav-seleccion" class=""><a href="/que-hacemos">qué hacemos</a></li>
+  <li id="nav-indice" class=""><a href="/procesos">procesos</a></li>
+  <li id="nav-panaderia" class="">
+    <a href="/lapanaderia">quiénes somos</a>
+  </li>
+  <li id="nav-casamasomenos" class="">
+    <a href="/casa-mas-o-menos">casamasomenos</a>
+  </li>
+</ul>
+
+
+        <style type="text/css">
+    #slide_controls a.selected {
+        color: #80B70E;
+    }
+
+    #tabs li {
+        border-bottom: 1px solid #80B70E;
+    }
+</style>
+
+
+<div id="title" style=" border-left: 1px solid #80B70E; border-top: 1px solid #80B70E; border-right: 1px solid #80B70E">
+  <span style="color: #80B70E;">europan 2011 CERDANYOLA</span>
+</div>
+
+<div id="card" style="border: 1px solid #80B70E;"
+ data-card-id="96" data-card-slug="europan-2011-cerdanyola">
+<div id="properties" class="card_element"
+   style="background-color: #F6FDE6; color: #80B70E;">
+
+<div id="files" style="top: 168px;">
+      <div class="prop_separator">&nbsp;</div>
+      <div class="card_file">
+        <img src="/images/file-22e66952.gif" />
+        <div><a popup="[&quot;_blank&quot;]" style="color: #80B70E;" href="https://depan.s3.amazonaws.com/pan_file/file/915/SP012_B1.jpg">panel 1</a>    </div>
+      </div>
+      <div class="prop_separator">&nbsp;</div>
+      <div class="card_file">
+        <img src="/images/file-22e66952.gif" />
+        <div><a popup="[&quot;_blank&quot;]" style="color: #80B70E;" href="https://depan.s3.amazonaws.com/pan_file/file/916/SP012_B2.jpg">panel 2</a>    </div>
+      </div>
+      <div class="prop_separator">&nbsp;</div>
+      <div class="card_file">
+        <img src="/images/file-22e66952.gif" />
+        <div><a popup="[&quot;_blank&quot;]" style="color: #80B70E;" href="https://depan.s3.amazonaws.com/pan_file/file/917/SP012_B3.jpg">panel 3</a>    </div>
+      </div>
+</div>
+
+
+
+    <div class="prop_name">concepto</div>
+    <div class="prop_value"><p>lapanaderia + <a href="http://www.sostrecivic.org/es">Sostrecivic</a></p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name">autores</div>
+    <div class="prop_value"><p>Rubén Alonso Mallén, Diego Carrillo Messa, Maria Josep Lázaro Castro, Eva Morales Soler, Elisenda Rifé Escudero </p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name">colaboradores</div>
+    <div class="prop_value"><p>Magdalena Burgos Marqués, Núria Colomé Montull, Raúl Robert Oleas, Ignacio Rovira Caballero, Carlos Schwarz Rodriguez</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name"></div>
+    <div class="prop_value"></div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name"></div>
+    <div class="prop_value"><p><a href="http://www.europan-esp.es/02_03_europan_result.php?id_resu=676.">PROPUESTA FINALISTA!!</a></p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+
+</div>
+
+
+<div id="main_image" class="card_element">
+<img src="https://depan.s3.amazonaws.com/main_image/file/891/main.jpg" />
+</div>
+
+
+<div id="main_text" class="card_element">
+<div id="text_flow">
+  <p>MEMORIA TÉCNICA 
+<em>El barrio como proceso</em></p>
+
+<p>La propuesta se fundamenta en entender el territorio y la conformación de ciudad como un proceso vivo de transformación, entendiendo como tal tanto el crecimiento como el decrecimiento. El barrio (‘urbs’) se concibe como soporte físico en permanente adaptación y equilibrio con las necesidades de los ciudadanos (‘civitas’) y con los cambios socioeconómicos y de gobernanza (‘polis’), ambos siempre en evolución. </p>
+
+<p>Este planteamiento permite abordar una <em>urbanización y edificación progresivas</em>, donde el valor de la continencia en la inversión en el contexto de crisis inmobiliaria español y sobreoferta de viviendas tiene especial sentido. <em>El proyecto posibilita que la ciudad crezca sólo lo necesario</em> y que a lo largo de todas las etapas de ese proceso tenga lugar un hábitat saludable, dinámico y equilibrado en el contexto socio-territorial, donde el usuario es el protagonista.</p>
+
+<p>El desarrollo urbano previsto está basado en un soporte de bloque alineado a la calle y plantea la topografía como unidad de desarrollo con una trama que separa tres tipos de flujos: el tráfico rodado, el peatonal urbano y el paseo ajardinado. </p>
+
+<p>Los bloques se ubican en relación a la pendiente, apostando por una buena orientación y ventilación de todas las viviendas y dibujando unas líneas que se superponen a la trama propuesta de calles generando visuales hacia  Collserola y espacios públicos y semipúblicos de sugerente valor y de muy variados usos.</p>
+
+<p>La propuesta plantea también formas de tenencia y gestión colectiva de los edificios de viviendas y de parte de los espacios exteriores, alternativas al alquiler y a la propiedad tradicional, que entre otras ventajas facilita la gestión ecológica de agua y residuos, así como la optimización de los recursos energéticos.</p>
+
+<p>Las tipologías de vivienda planteadas se abordan desde la flexibilidad espacial, mediante estrategias de elasticidad y adaptabilidad tipológica a lo largo de su ciclo de vida, en función de los cambios de las necesidades de sus <a href="mailto:usuari@s">usuari@s</a>. </p>
+
+<p>Es una propuesta actúa con un gran respeto al lugar, que se adapta al máximo al sustrato preexistente y que permite un crecimiento pausado y adaptado a las posibilidades reales de la demanda.</p>
+
+</div>
+</div>
+<div id="scroll_down" class="scrollers" style="display: none"></div>
+<div id="scroll_up" class="scrollers" style="display: none"></div>
+
+
+<!-- slides -->
+  <div id="slides" class="card_element"
+       data-firstId="893"
+       data-lastId="900">
+        <div id="slideImage1" class="slide" style="display: none">
+          <img alt="" size="420x330" src="https://depan.s3.amazonaws.com/slide_image/file/893/01.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber1" style="display: none;">1</div>
+        </div>
+        <div id="slideImage2" class="slide" style="display: none">
+          <img alt="" size="420x322" src="https://depan.s3.amazonaws.com/slide_image/file/894/02.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber2" style="display: none;">2</div>
+        </div>
+        <div id="slideImage3" class="slide" style="display: none">
+          <img alt="" size="420x313" src="https://depan.s3.amazonaws.com/slide_image/file/895/03.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber3" style="display: none;">3</div>
+        </div>
+        <div id="slideImage4" class="slide" style="display: none">
+          <img alt="" size="420x311" src="https://depan.s3.amazonaws.com/slide_image/file/896/04.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber4" style="display: none;">4</div>
+        </div>
+        <div id="slideImage5" class="slide" style="display: none">
+          <img alt="" size="420x301" src="https://depan.s3.amazonaws.com/slide_image/file/897/05.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber5" style="display: none;">5</div>
+        </div>
+        <div id="slideImage6" class="slide" style="display: none">
+          <img alt="" size="420x302" src="https://depan.s3.amazonaws.com/slide_image/file/898/06.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber6" style="display: none;">6</div>
+        </div>
+        <div id="slideImage7" class="slide" style="display: none">
+          <img alt="" size="420x302" src="https://depan.s3.amazonaws.com/slide_image/file/899/07.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber7" style="display: none;">7</div>
+        </div>
+        <div id="slideImage8" class="slide" style="display: none">
+          <img alt="" size="420x238" src="https://depan.s3.amazonaws.com/slide_image/file/900/08.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber8" style="display: none;">8</div>
+        </div>
+  </div>
+
+  <div id="slide_controls" class="card_element">
+    <a id="slideFirst" class="arrow" href="#"><img alt="primera" src="/images/arrowleft1-02a0feef.gif" /></a>
+    <a id="slidePrev" class="arrow" href="#"><img alt="anterior" src="/images/arrowleft2-629713c3.gif" /></a>
+    &nbsp;<span id="number_control"></span> / <span>8</span>&nbsp;
+    <a id="slideNext" class="arrow" href="#"><img alt="siguiente" src="/images/arrowright1-842aef87.gif" /></a>
+    <a id="slideLast" class="arrow" href="#"><img alt="última" src="/images/arrowright2-50f8cf92.gif" /></a>
+  </div>
+</div>
+
+      </div>
+    </div>
+    <script src="/javascripts/application-6fdb9dbc.js" type="text/javascript"></script>
+    <!-- Facebook -->
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/es_ES/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+    try {
+        var pageTracker = _gat._getTracker("UA-1584724-6");
+        pageTracker._trackPageview();
+    } catch(err) {
+    }
+</script>
+<div style="display:none" id="APP-VERSION">1.2.0 </div>
+
+  </body>
+</html>

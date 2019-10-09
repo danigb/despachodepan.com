@@ -1,0 +1,10 @@
+<div class="mini_slide" style="border-color: #607FB7;">
+  <div class="mini_image">
+    <img id="preview_image" src="https://depan.s3.amazonaws.com/slide_image/file/424/thumb_colegio_jaen_20.jpg" />
+  </div>
+      <div class="mini_text" style="color: #607FB7;">
+        <p>entrada principal del colegio y acceso a la biblioteca</p>
+
+      </div>
+</div>
+

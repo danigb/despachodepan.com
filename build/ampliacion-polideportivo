@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="description" content="Despacho de pan web site">
+    <meta name="author" content="La panadería s.l.c">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="timestamp" content="2014-09-02 17:18:43 +0200">
+<title>l a p a n a d e r í a : </title>
+    <link href="/stylesheets/application-aefcba77.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body id="cards">
+    <div id="central">
+      <div id="playground">
+        <a href="/lapanaderia" id="logo">La Panadería</a>
+        <div id="social">
+  <div class="fb-like" data-href="http://despachodepan.con" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false"></div>
+  <div class="buttons">
+    <a class="facebook" href="https://www.facebook.com/pages/Lapanaderia-arquitectura/130813683683669">La panadería en facebook</a>
+    <a class="twitter" href="http://twitter.com/#!/despachodepan">La panadería en twitter</a>
+    <a class="linkedin" href="http://www.linkedin.com/company/lapanaderia-arquitectura-y-dise-o">La panadería en linkedin</a>
+    <a class="flickr" href="http://www.flickr.com/photos/lapanaderia-arquitectura/sets/">La panadería en flickr</a>
+    <span class="cc">Algunos derechos reservados</span>
+  </div>
+</div>
+
+        <ul id="tabs">
+  <li id="nav-actual" class=""><a href="/">noticias</a></li>
+  <li id="nav-seleccion" class=""><a href="/que-hacemos">qué hacemos</a></li>
+  <li id="nav-indice" class=""><a href="/procesos">procesos</a></li>
+  <li id="nav-panaderia" class="">
+    <a href="/lapanaderia">quiénes somos</a>
+  </li>
+  <li id="nav-casamasomenos" class="">
+    <a href="/casa-mas-o-menos">casamasomenos</a>
+  </li>
+</ul>
+
+
+        <style type="text/css">
+    #slide_controls a.selected {
+        color: #80B70E;
+    }
+
+    #tabs li {
+        border-bottom: 1px solid #80B70E;
+    }
+</style>
+
+
+<div id="title" style=" border-left: 1px solid #80B70E; border-top: 1px solid #80B70E; border-right: 1px solid #80B70E">
+  <span style="color: #80B70E;">Ampliación polideportivo</span>
+</div>
+
+<div id="card" style="border: 1px solid #80B70E;"
+ data-card-id="70" data-card-slug="ampliacion-polideportivo">
+<div id="properties" class="card_element"
+   style="background-color: #F6FDE6; color: #80B70E;">
+
+<div id="files" style="top: 237px;">
+</div>
+
+
+
+    <div class="prop_name">uso</div>
+    <div class="prop_value"><p>concursos</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name">lugar</div>
+    <div class="prop_value"><p>Tomares, Sevilla</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name">superficie</div>
+    <div class="prop_value"><p>2.678 m2</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name">promotor</div>
+    <div class="prop_value"><p>Ayuntamiento de Tomares</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name">colaboradores</div>
+    <div class="prop_value"><p>esperanza moreno cruz</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name">arquitecto técnico</div>
+    <div class="prop_value"><p>jesús miguel villa</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name">asesoria estructura</div>
+    <div class="prop_value"><p>duarte + asociados sl</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+
+</div>
+
+
+<div id="main_image" class="card_element">
+<img src="https://depan.s3.amazonaws.com/main_image/file/37/00.jpg" />
+</div>
+
+
+<div id="main_text" class="card_element">
+<div id="text_flow">
+  <p>La zona de actuación es un conjunto de instalaciones deportivas que se han ido construyendo a lo largo del tiempo por adición, sin que exista una estructura de organización muy clara. Esto conlleva diversos problemas: los accesos y recorridos interiores no están claramente definidos (la entrada peatonal se realiza a través del aparcamiento, por ejemplo), se generan espacios intersticiales infrautilizados, no existe una “imagen” clara que de carácter al conjunto, etc.
+Por ello, la propuesta pretende no sólo dar respuesta a las necesidades funcionales que se requieren desde las bases del concurso, si no también, plantear la intervención como un elemento que sirva de “organizador” de toda la zona deportiva, y al mismo tiempo que le de “carácter” visual al conjunto.
+Para ello, el edificio se plantea como una pieza longitudinal que a modo de eje vertebrador va ordenando los diferentes usos que va encontrando a ambos lados, desde el acceso en la zona Sureste hasta el extremo Noreste.
+Las dimensiones del edificio en planta (una pieza claramente longitudinal, a excepción de la zona de cafetería) apuntan a una homogeneización estructural con el fin de optimizar la misma económicamente. Por ello, se propone una retícula de pilares de 6 x 9,30 metros que sólo se deforma  en los extremos, y en la zona de cafetería.</p>
+
+</div>
+</div>
+<div id="scroll_down" class="scrollers" style="display: none"></div>
+<div id="scroll_up" class="scrollers" style="display: none"></div>
+
+
+<!-- slides -->
+  <div id="slides" class="card_element"
+       data-firstId="567"
+       data-lastId="570">
+        <div id="slideImage2" class="slide" style="display: none">
+          <img alt="" size="420x228" src="https://depan.s3.amazonaws.com/slide_image/file/567/001.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber2" style="display: none;">2</div>
+        </div>
+        <div id="slideImage1" class="slide" style="display: none">
+          <img alt="ampliación polideportivo mascareta, tomares" size="400x380" src="https://depan.s3.amazonaws.com/slide_image/file/568/01.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>ampliación polideportivo mascareta, tomares</p>
+
+          </div>
+          <div id="slideNumber1" style="display: none;">1</div>
+        </div>
+        <div id="slideImage3" class="slide" style="display: none">
+          <img alt="" size="420x293" src="https://depan.s3.amazonaws.com/slide_image/file/569/02.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber3" style="display: none;">3</div>
+        </div>
+        <div id="slideImage4" class="slide" style="display: none">
+          <img alt="" size="420x136" src="https://depan.s3.amazonaws.com/slide_image/file/570/03.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber4" style="display: none;">4</div>
+        </div>
+  </div>
+
+  <div id="slide_controls" class="card_element">
+    <a id="slideFirst" class="arrow" href="#"><img alt="primera" src="/images/arrowleft1-02a0feef.gif" /></a>
+    <a id="slidePrev" class="arrow" href="#"><img alt="anterior" src="/images/arrowleft2-629713c3.gif" /></a>
+    &nbsp;<span id="number_control"></span> / <span>4</span>&nbsp;
+    <a id="slideNext" class="arrow" href="#"><img alt="siguiente" src="/images/arrowright1-842aef87.gif" /></a>
+    <a id="slideLast" class="arrow" href="#"><img alt="última" src="/images/arrowright2-50f8cf92.gif" /></a>
+  </div>
+</div>
+
+      </div>
+    </div>
+    <script src="/javascripts/application-6fdb9dbc.js" type="text/javascript"></script>
+    <!-- Facebook -->
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/es_ES/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+    try {
+        var pageTracker = _gat._getTracker("UA-1584724-6");
+        pageTracker._trackPageview();
+    } catch(err) {
+    }
+</script>
+<div style="display:none" id="APP-VERSION">1.2.0 </div>
+
+  </body>
+</html>

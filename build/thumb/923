@@ -1,0 +1,12 @@
+<div class="mini_slide" style="border-color: #40CAFC;">
+  <div class="mini_image">
+    <img id="preview_image" src="https://depan.s3.amazonaws.com/slide_image/file/923/thumb_" />
+  </div>
+      <div class="mini_text" style="color: #40CAFC;">
+        <iframe src="http://player.vimeo.com/video/29054400?title=0&amp;byline=0&amp;portrait=0" width="420" height="236" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+<p>video presentacion del estudio realizado en 2011</p>
+
+      </div>
+</div>
+

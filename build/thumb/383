@@ -1,0 +1,10 @@
+<div class="mini_slide" style="border-color: #9B6B1B;">
+  <div class="mini_image">
+    <img id="preview_image" src="https://depan.s3.amazonaws.com/slide_image/file/383/thumb_contenedor_04.gif" />
+  </div>
+      <div class="mini_text" style="color: #9B6B1B;">
+        <p>esto permite configurar la tienda de diferentes maneras adaptándola a las diferentes actividades que se desarrollarán</p>
+
+      </div>
+</div>
+

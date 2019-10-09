@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="description" content="Despacho de pan web site">
+    <meta name="author" content="La panadería s.l.c">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="timestamp" content="2014-09-02 17:18:43 +0200">
+<title>l a p a n a d e r í a : </title>
+    <link href="/stylesheets/application-aefcba77.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body id="cards">
+    <div id="central">
+      <div id="playground">
+        <a href="/lapanaderia" id="logo">La Panadería</a>
+        <div id="social">
+  <div class="fb-like" data-href="http://despachodepan.con" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false"></div>
+  <div class="buttons">
+    <a class="facebook" href="https://www.facebook.com/pages/Lapanaderia-arquitectura/130813683683669">La panadería en facebook</a>
+    <a class="twitter" href="http://twitter.com/#!/despachodepan">La panadería en twitter</a>
+    <a class="linkedin" href="http://www.linkedin.com/company/lapanaderia-arquitectura-y-dise-o">La panadería en linkedin</a>
+    <a class="flickr" href="http://www.flickr.com/photos/lapanaderia-arquitectura/sets/">La panadería en flickr</a>
+    <span class="cc">Algunos derechos reservados</span>
+  </div>
+</div>
+
+        <ul id="tabs">
+  <li id="nav-actual" class=""><a href="/">noticias</a></li>
+  <li id="nav-seleccion" class=""><a href="/que-hacemos">qué hacemos</a></li>
+  <li id="nav-indice" class=""><a href="/procesos">procesos</a></li>
+  <li id="nav-panaderia" class="">
+    <a href="/lapanaderia">quiénes somos</a>
+  </li>
+  <li id="nav-casamasomenos" class="selected">
+    <a href="/casa-mas-o-menos">casamasomenos</a>
+  </li>
+</ul>
+
+
+        <style type="text/css">
+    #slide_controls a.selected {
+        color: #FF9C00;
+    }
+
+    #tabs li {
+        border-bottom: 1px solid #FF9C00;
+    }
+</style>
+
+
+
+<div id="card" style="border: 1px solid #FF9C00;"
+ data-card-id="72" data-card-slug="casa-mas-o-menos">
+<div id="properties" class="card_element"
+   style="background-color: #FFFBEC; color: #FF9C00;">
+
+<div id="files" style="top: 237px;">
+</div>
+
+
+
+    <div class="prop_name"></div>
+    <div class="prop_value"><p><img src="https://depan.s3.amazonaws.com/pan_file/file/982/PAN.jpg" alt="LAPANADERIA"></p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name"></div>
+    <div class="prop_value"></div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name">videos</div>
+    <div class="prop_value"><p><a href="http://www.youtube.com/user/casamasomenos/videos?view=pl">youTUBE</a></p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+
+</div>
+
+
+<div id="main_image" class="card_element">
+<img src="https://depan.s3.amazonaws.com/main_image/file/902/main3.jpg" />
+</div>
+
+
+<div id="main_text" class="card_element">
+<div id="text_flow">
+  <p>Para nosotros <em>casa más o menos</em> describe el ámbito de práctica, investigación y docencia que intentamos desarrollar en torno a <em>la vivienda y el hábitat entendidos como un proceso</em>. Un concepto de espacio que posibilite su capacidad de adaptación a las necesidades sociales, medioambientales y a los recursos disponibles de los ciudadanos, y donde se incorpore a éste activamente en la construcción de una identidad individual y colectiva, <em>que le haga partícipe</em> de lo  percibido, sentido, vivido y por lo tanto de su capacidad de transformar los espacios que habita.</p>
+
+<p>casamasomenos: es nuestro intento desde la arquitectura de abrir los procesos de vivienda a la ciudadanía, para fomentar otro modo de colaboración entre técnicos y usuarios.</p>
+
+<p>¿Por qué casa más o menos? Una casa más o menos terminada, diseñada, o algo que es más o menos una casa…</p>
+
+<p>Aquí puedes ver los proyectos que hemos realizado dentro de casa + ó - &gt;&gt;&gt;&gt; &gt; &gt; &gt; &gt;</p>
+
+</div>
+</div>
+<div id="scroll_down" class="scrollers" style="display: none"></div>
+<div id="scroll_up" class="scrollers" style="display: none"></div>
+
+
+<!-- slides -->
+  <div id="slides" class="card_element"
+       data-firstId="839"
+       data-lastId="981">
+        <div id="slideImage6" class="slide" style="display: none">
+          <img alt="*2009* El Ayuntamiento de Huevar quería convocar un concurso par aun barrio de VPO “sostenible”. Les diseñamos unos &quot;talleres&quot;:/talleres-huevar para trabajar con los demandantes de vivienda y que ellos definieran *el programa de vivienda y las caracateristicas del barrio* para el concurso, pero el proyecto se paró por falta de presupuesto" size="420x308" src="https://depan.s3.amazonaws.com/slide_image/file/839/04.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p><em>2009</em> El Ayuntamiento de Huevar quería convocar un concurso par aun barrio de VPO “sostenible”. Les diseñamos unos <a href="/talleres-huevar">talleres</a> para trabajar con los demandantes de vivienda y que ellos definieran <em>el programa de vivienda y las caracateristicas del barrio</em> para el concurso, pero el proyecto se paró por falta de presupuesto</p>
+
+          </div>
+          <div id="slideNumber6" style="display: none;">6</div>
+        </div>
+        <div id="slideImage5" class="slide" style="display: none">
+          <img alt="*2010* Analizamos la viabilidad normativa de implantación en el marco de VPO de un &quot;prototipo de vivienda ampliable para jóvenes&quot;:/vpo-progresiva , con un modelo de alquiler con opción a compra que pretendía implantar el Consorcio de la vivienda del área metropolitana de Sevilla (cOnvive) en varios municipios. Se pretende plantear un modelo de ciudad más densa alternativo al crecimiento descontrolado e insostenible de adosados." size="420x324" src="https://depan.s3.amazonaws.com/slide_image/file/840/05.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p><em>2010</em> Analizamos la viabilidad normativa de implantación en el marco de VPO de un <a href="/vpo-progresiva">prototipo de vivienda ampliable para jóvenes</a> , con un modelo de alquiler con opción a compra que pretendía implantar el Consorcio de la vivienda del área metropolitana de Sevilla (cOnvive) en varios municipios. Se pretende plantear un modelo de ciudad más densa alternativo al crecimiento descontrolado e insostenible de adosados.</p>
+
+          </div>
+          <div id="slideNumber5" style="display: none;">5</div>
+        </div>
+        <div id="slideImage9" class="slide" style="display: none">
+          <img alt="*2004* &quot;Alcalá 01&quot;:http://despachodepan.recortable.net/alcala-01#/imagen=18  fué el *proyecto inicial* de casamasomenos, a traves de una web los usuarios podían decidir que nivel de terminación querían en su vivienda y así ajustar el precio, el acabado base permitió que cada una personalizara su vivienda en función de sus gustos y sus recursos económicos." size="420x334" src="https://depan.s3.amazonaws.com/slide_image/file/841/01.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p><em>2004</em> <a href="http://despachodepan.recortable.net/alcala-01#/imagen=18">Alcalá 01</a>  fué el <em>proyecto inicial</em> de casamasomenos, a traves de una web los usuarios podían decidir que nivel de terminación querían en su vivienda y así ajustar el precio, el acabado base permitió que cada una personalizara su vivienda en función de sus gustos y sus recursos económicos.</p>
+
+          </div>
+          <div id="slideNumber9" style="display: none;">9</div>
+        </div>
+        <div id="slideImage8" class="slide" style="display: none">
+          <img alt="*2007* La propuesta para el concurso de VPO en La FLorida intentaba *ampliar las posibilidades de modificación de la vivienda* por parte de los usuarios, permitiendo la ampliación.
+Se planteaba una &quot;vivienda en “volumen”&quot;:/vp-la-florida donde se definía una envolvente total inicial y se podía ampliar con construcción ligera interiormente." size="420x310" src="https://depan.s3.amazonaws.com/slide_image/file/842/02.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p><em>2007</em> La propuesta para el concurso de VPO en La FLorida intentaba <em>ampliar las posibilidades de modificación de la vivienda</em> por parte de los usuarios, permitiendo la ampliación.
+Se planteaba una <a href="/vp-la-florida">vivienda en “volumen”</a> donde se definía una envolvente total inicial y se podía ampliar con construcción ligera interiormente.</p>
+
+          </div>
+          <div id="slideNumber8" style="display: none;">8</div>
+        </div>
+        <div id="slideImage7" class="slide" style="display: none">
+          <img alt="*2008* Para el concurso de vPO J5 se mejoró la &quot;tipología de la vivienda ampliable en volumen&quot;:/j5-velezrubio y se desarrollaron más variaciones tipológicas y de agrupación. Las vivienda se agrupaban a modo de “casas individuales” mediante zonas comunes abiertas y habitaciones exteriores de usos múltiples" size="420x301" src="https://depan.s3.amazonaws.com/slide_image/file/843/03.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p><em>2008</em> Para el concurso de vPO J5 se mejoró la <a href="/j5-velezrubio">tipología de la vivienda ampliable en volumen</a> y se desarrollaron más variaciones tipológicas y de agrupación. Las vivienda se agrupaban a modo de “casas individuales” mediante zonas comunes abiertas y habitaciones exteriores de usos múltiples</p>
+
+          </div>
+          <div id="slideNumber7" style="display: none;">7</div>
+        </div>
+        <div id="slideImage4" class="slide" style="display: none">
+          <img alt="*2010* Desarrollamos un &quot;estudio constructivo y de viabilidad económica&quot;:/vpo-progresiva_viabilidad para el prototipo de VPO ampliable desarrollado para cOnvive. En el estudio se plantean *estrategias constructivas para fomentar la adaptabilidad de la vivienda* siguiendo criterios de Open Building, caracterizando cada uno de los elementos constructivos y buscando soluciones viables en el mercado actual. El objetivo es conseguir una VPO ampliable de 50 a 70m2 por el mismo coste que una VPO standar de 50 m2." size="420x315" src="https://depan.s3.amazonaws.com/slide_image/file/844/06.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p><em>2010</em> Desarrollamos un <a href="/vpo-progresiva_viabilidad">estudio constructivo y de viabilidad económica</a> para el prototipo de VPO ampliable desarrollado para cOnvive. En el estudio se plantean <em>estrategias constructivas para fomentar la adaptabilidad de la vivienda</em> siguiendo criterios de Open Building, caracterizando cada uno de los elementos constructivos y buscando soluciones viables en el mercado actual. El objetivo es conseguir una VPO ampliable de 50 a 70m2 por el mismo coste que una VPO standar de 50 m2.</p>
+
+          </div>
+          <div id="slideNumber4" style="display: none;">4</div>
+        </div>
+        <div id="slideImage3" class="slide" style="display: none">
+          <img alt="*2010* Empezamos con el primer paso de &quot;rEActua&quot;:http://despachodepan.recortable.net/reactua , un protocolo de actuación para platear rehabilitaciones energéticas de edificios residenciales como un proceso participativo para aumentar el conocimiento que tenemos de como funcionan energeticamente nuestras viviendas y como podemos ahorrar más energía. La rehabilitación de la propia casa como una *práctica de laboratorio de concienciación energética colectiva*." size="420x319" src="https://depan.s3.amazonaws.com/slide_image/file/845/07.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p><em>2010</em> Empezamos con el primer paso de <a href="http://despachodepan.recortable.net/reactua">rEActua</a> , un protocolo de actuación para platear rehabilitaciones energéticas de edificios residenciales como un proceso participativo para aumentar el conocimiento que tenemos de como funcionan energeticamente nuestras viviendas y como podemos ahorrar más energía. La rehabilitación de la propia casa como una <em>práctica de laboratorio de concienciación energética colectiva</em>.</p>
+
+          </div>
+          <div id="slideNumber3" style="display: none;">3</div>
+        </div>
+        <div id="slideImage2" class="slide" style="display: none">
+          <img alt="*2010* Tras estos últimos años de propuestas y descubrimientos hemos intentado elaborar un mapa de situación, le hemos llamado mapa de &quot;estrategias habitacionales&quot;:http://despachodepan.recortable.net/la-vivienda-como-proceso para una vivienda *en proceso* . Pretende ser una herramienta para *abrir la vivienda a la participación de los usuarios*, Se ha formalizado en un documento de investigación y una &quot;web inicial&quot;:http://investigacion.casamasomenos.net/." size="420x351" src="https://depan.s3.amazonaws.com/slide_image/file/846/08.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p><em>2010</em> Tras estos últimos años de propuestas y descubrimientos hemos intentado elaborar un mapa de situación, le hemos llamado mapa de <a href="http://despachodepan.recortable.net/la-vivienda-como-proceso">estrategias habitacionales</a> para una vivienda <em>en proceso</em> . Pretende ser una herramienta para <em>abrir la vivienda a la participación de los usuarios</em>, Se ha formalizado en un documento de investigación y una <a href="http://investigacion.casamasomenos.net/.">web inicial</a></p>
+
+          </div>
+          <div id="slideNumber2" style="display: none;">2</div>
+        </div>
+        <div id="slideImage1" class="slide" style="display: none">
+          
+          <div class="slide_text" style="text-align: left">
+            <iframe src="http://player.vimeo.com/video/37086987?title=0&amp;byline=0&amp;portrait=0" width="420" height="236" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+<p><em>2012</em></p>
+
+<p>Estamos desarrollando una <em>plataforma web de procesos colectivos de vivienda</em> que pretende ofrecer herramientas para fomentar la participación y autogestión en la construcción de nuestras viviendas y entornos.</p>
+
+<p>Pretendemos ofrecer y debatir <em>alternativas</em> al modelo dominante de vivienda actual, proponiendo experiencias construidas y guías de asesoría que nos ayuden a ver otra manera de hacer las cosas.</p>
+
+<p>Queremos que pueda convertirse en un lugar de encuentro y debate, para crear red y sinergias entre colectivos y personas desde ámbitos técnicos y ciudadanos, un lugar para compartir experiencias y desarrollar conocimiento y acciones de manera <em>colaborativa</em>.</p>
+
+<p><a href="http://masqueunacasa.org">ENLACE</a>  al BLOG inicial</p>
+
+          </div>
+          <div id="slideNumber1" style="display: none;">1</div>
+        </div>
+  </div>
+
+  <div id="slide_controls" class="card_element">
+    <a id="slideFirst" class="arrow" href="#"><img alt="primera" src="/images/arrowleft1-02a0feef.gif" /></a>
+    <a id="slidePrev" class="arrow" href="#"><img alt="anterior" src="/images/arrowleft2-629713c3.gif" /></a>
+    &nbsp;<span id="number_control"></span> / <span>9</span>&nbsp;
+    <a id="slideNext" class="arrow" href="#"><img alt="siguiente" src="/images/arrowright1-842aef87.gif" /></a>
+    <a id="slideLast" class="arrow" href="#"><img alt="última" src="/images/arrowright2-50f8cf92.gif" /></a>
+  </div>
+</div>
+
+      </div>
+    </div>
+    <script src="/javascripts/application-6fdb9dbc.js" type="text/javascript"></script>
+    <!-- Facebook -->
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/es_ES/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+    try {
+        var pageTracker = _gat._getTracker("UA-1584724-6");
+        pageTracker._trackPageview();
+    } catch(err) {
+    }
+</script>
+<div style="display:none" id="APP-VERSION">1.2.0 </div>
+
+  </body>
+</html>

@@ -1,0 +1,10 @@
+<div class="mini_slide" style="border-color: #607FB7;">
+  <div class="mini_image">
+    <img id="preview_image" src="https://depan.s3.amazonaws.com/slide_image/file/658/thumb_00.jpg" />
+  </div>
+      <div class="mini_text" style="color: #607FB7;">
+        <p>Planta de situación</p>
+
+      </div>
+</div>
+

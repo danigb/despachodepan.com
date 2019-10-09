@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="description" content="Despacho de pan web site">
+    <meta name="author" content="La panadería s.l.c">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="timestamp" content="2014-09-02 17:18:42 +0200">
+<title>l a p a n a d e r í a : </title>
+    <link href="/stylesheets/application-aefcba77.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body id="cards">
+    <div id="central">
+      <div id="playground">
+        <a href="/lapanaderia" id="logo">La Panadería</a>
+        <div id="social">
+  <div class="fb-like" data-href="http://despachodepan.con" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false"></div>
+  <div class="buttons">
+    <a class="facebook" href="https://www.facebook.com/pages/Lapanaderia-arquitectura/130813683683669">La panadería en facebook</a>
+    <a class="twitter" href="http://twitter.com/#!/despachodepan">La panadería en twitter</a>
+    <a class="linkedin" href="http://www.linkedin.com/company/lapanaderia-arquitectura-y-dise-o">La panadería en linkedin</a>
+    <a class="flickr" href="http://www.flickr.com/photos/lapanaderia-arquitectura/sets/">La panadería en flickr</a>
+    <span class="cc">Algunos derechos reservados</span>
+  </div>
+</div>
+
+        <ul id="tabs">
+  <li id="nav-actual" class=""><a href="/">noticias</a></li>
+  <li id="nav-seleccion" class=""><a href="/que-hacemos">qué hacemos</a></li>
+  <li id="nav-indice" class=""><a href="/procesos">procesos</a></li>
+  <li id="nav-panaderia" class="">
+    <a href="/lapanaderia">quiénes somos</a>
+  </li>
+  <li id="nav-casamasomenos" class="">
+    <a href="/casa-mas-o-menos">casamasomenos</a>
+  </li>
+</ul>
+
+
+        <style type="text/css">
+    #slide_controls a.selected {
+        color: #80B70E;
+    }
+
+    #tabs li {
+        border-bottom: 1px solid #80B70E;
+    }
+</style>
+
+
+<div id="title" style=" border-left: 1px solid #80B70E; border-top: 1px solid #80B70E; border-right: 1px solid #80B70E">
+  <span style="color: #80B70E;">alquife</span>
+</div>
+
+<div id="card" style="border: 1px solid #80B70E;"
+ data-card-id="23" data-card-slug="alquife">
+<div id="properties" class="card_element"
+   style="background-color: #F6FDE6; color: #80B70E;">
+
+<div id="files" style="top: 191px;">
+      <div class="prop_separator">&nbsp;</div>
+      <div class="card_file">
+        <img src="/images/file-22e66952.gif" />
+        <div><a popup="[&quot;_blank&quot;]" style="color: #80B70E;" href="https://depan.s3.amazonaws.com/pan_file/file/722/alquife_librito.pdf">cuaderno</a>    </div>
+      </div>
+      <div class="prop_separator">&nbsp;</div>
+      <div class="card_file">
+        <img src="/images/file-22e66952.gif" />
+        <div><a popup="[&quot;_blank&quot;]" style="color: #80B70E;" href="https://depan.s3.amazonaws.com/pan_file/file/784/c003_alquife.pdf">ficha resumen</a>    </div>
+      </div>
+</div>
+
+
+
+    <div class="prop_name">uso</div>
+    <div class="prop_value"><p>concursos</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name">lugar</div>
+    <div class="prop_value"><p>almeria</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name">superficie</div>
+    <div class="prop_value"><p>6350 m2</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name">promotor</div>
+    <div class="prop_value"><p>consejeria de cultura</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name">colaboradores</div>
+    <div class="prop_value"><p>eva meisinger, calc</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name">asesoramiento jardinería</div>
+    <div class="prop_value"><p>javier diaz roldan</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name">asesoramiento energía solar</div>
+    <div class="prop_value"><p>valerio fernandez quero</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+
+</div>
+
+
+<div id="main_image" class="card_element">
+<img src="https://depan.s3.amazonaws.com/main_image/file/63/main.jpg" />
+</div>
+
+
+<div id="main_text" class="card_element">
+<div id="text_flow">
+  <p>Esta propuesta fue presentada al Concurso de Ideas para la rehabilitación del antiguo Cargadero de Mineral “El Alquife” en el puerto de Almería, convocado por el Ayuntamiento de Almería y la Junta de Andalucía.</p>
+
+<p>El objetivo era conservar el concepto de edificio-máquina que siempre tuvo el cargadero, pero reinterpretandolo desde la actualidad, una máquina que pasa de transformar el paisaje almeriense extrayendo mineral, a ser en si misma paisaje. El cargadero se convierte en un nuevo jardín-oasis artificial, una máquina verde sobre el agua.</p>
+
+<p>Se plantean varias estrategias. Introduccion de un parque y un jardín. Un parque con vegetación ornamental (artificial) en el nivel superior del cargadero, generando una nueva topografía mediante el relleno variable de los antiguos depositos de mineral con tierra vegetal y aligerantes, y un jardín botánico con especies acuáticas autóctonas en el nivel inferior colocando módulos de jardineras sobre la estructura existente.</p>
+
+<p>Para que la generación y el mantenimiento de estas “naturalezas” sea viable (dada la escasez de agua en esta ciudad), introducimos en la estructura del cargadero una pequeña instalación de desalación de agua de mar por medio de energía solar. Esta instalación proporciona el agua necesaria para el riego diario de los parques y el consumo del edificio.</p>
+
+<p>Entre los niveles del parque y el jardín se colocan todos los espacios expositivos, culturales y de servicio. Además se introducen varios núcleos de comunicación vertical que relacionan todos los niveles, posibilitando en todo momento un recorrido personalizado por el edificio.</p>
+
+</div>
+</div>
+<div id="scroll_down" class="scrollers" style="display: none"></div>
+<div id="scroll_up" class="scrollers" style="display: none"></div>
+
+
+<!-- slides -->
+  <div id="slides" class="card_element"
+       data-firstId="142"
+       data-lastId="330">
+        <div id="slideImage1" class="slide" style="display: none">
+          <img alt="concurso de ideas rehabilitación del cargadero mineral, almeria" size="440x330" src="https://depan.s3.amazonaws.com/slide_image/file/142/alquife_01.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>concurso de ideas rehabilitación del cargadero mineral, almeria</p>
+
+          </div>
+          <div id="slideNumber1" style="display: none;">1</div>
+        </div>
+        <div id="slideImage5" class="slide" style="display: none">
+          <img alt="para ello se propone la modificación puntual de la estructura" size="440x344" src="https://depan.s3.amazonaws.com/slide_image/file/143/alquife_03.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>para ello se propone la modificación puntual de la estructura</p>
+
+          </div>
+          <div id="slideNumber5" style="display: none;">5</div>
+        </div>
+        <div id="slideImage2" class="slide" style="display: none">
+          <img alt="el alquife se encuentra situado en la confluencia de dos ejes &quot;verdes&quot; de la ciudad con la via de tren" size="400x399" src="https://depan.s3.amazonaws.com/slide_image/file/144/alquife_04.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>el alquife se encuentra situado en la confluencia de dos ejes &quot;verdes&quot; de la ciudad con la via de tren</p>
+
+          </div>
+          <div id="slideNumber2" style="display: none;">2</div>
+        </div>
+        <div id="slideImage3" class="slide" style="display: none">
+          <img alt="se propone que el alquife en si mismo se convierta en parte de esos ejes verdes introduciendo un parque en la parte superior y un jardin en la inferior" size="440x262" src="https://depan.s3.amazonaws.com/slide_image/file/145/alquife_05.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>se propone que el alquife en si mismo se convierta en parte de esos ejes verdes introduciendo un parque en la parte superior y un jardin en la inferior</p>
+
+          </div>
+          <div id="slideNumber3" style="display: none;">3</div>
+        </div>
+        <div id="slideImage6" class="slide" style="display: none">
+          <img alt="el agua necesaria para abastecer de riego al parque superior y al jardin inferior se obtiene de una instalación de desalacion de agua de mar por energía solar" size="440x265" src="https://depan.s3.amazonaws.com/slide_image/file/146/alquife_06.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>el agua necesaria para abastecer de riego al parque superior y al jardin inferior se obtiene de una instalación de desalacion de agua de mar por energía solar</p>
+
+          </div>
+          <div id="slideNumber6" style="display: none;">6</div>
+        </div>
+        <div id="slideImage7" class="slide" style="display: none">
+          <img alt="tanto la columna de destilación como los paneles solares serían visibles y quedarían integrados en el edificio-máquina teniendo de este modo una función pedagógica" size="440x296" src="https://depan.s3.amazonaws.com/slide_image/file/147/alquife_07.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>tanto la columna de destilación como los paneles solares serían visibles y quedarían integrados en el edificio-máquina teniendo de este modo una función pedagógica</p>
+
+          </div>
+          <div id="slideNumber7" style="display: none;">7</div>
+        </div>
+        <div id="slideImage12" class="slide" style="display: none">
+          <img alt="museo del cargadero" size="440x295" src="https://depan.s3.amazonaws.com/slide_image/file/148/alquife_08.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>museo del cargadero</p>
+
+          </div>
+          <div id="slideNumber12" style="display: none;">12</div>
+        </div>
+        <div id="slideImage11" class="slide" style="display: none">
+          <img alt="espacios de exposiciones" size="440x296" src="https://depan.s3.amazonaws.com/slide_image/file/149/alquife_09.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>espacios de exposiciones</p>
+
+          </div>
+          <div id="slideNumber11" style="display: none;">11</div>
+        </div>
+        <div id="slideImage10" class="slide" style="display: none">
+          <img alt="los espacios interiores se habilitan para usos culturales como conferencias" size="440x307" src="https://depan.s3.amazonaws.com/slide_image/file/150/alquife_10.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>los espacios interiores se habilitan para usos culturales como conferencias</p>
+
+          </div>
+          <div id="slideNumber10" style="display: none;">10</div>
+        </div>
+        <div id="slideImage8" class="slide" style="display: none">
+          <img alt="" size="440x371" src="https://depan.s3.amazonaws.com/slide_image/file/151/alquife_11.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber8" style="display: none;">8</div>
+        </div>
+        <div id="slideImage15" class="slide" style="display: none">
+          <img alt="" size="440x311" src="https://depan.s3.amazonaws.com/slide_image/file/152/alquife_12.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber15" style="display: none;">15</div>
+        </div>
+        <div id="slideImage13" class="slide" style="display: none">
+          <img alt="en la parte inferior se propone un jardin de plantas acuaticas autóctonas" size="440x365" src="https://depan.s3.amazonaws.com/slide_image/file/153/alquife_13.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>en la parte inferior se propone un jardin de plantas acuaticas autóctonas</p>
+
+          </div>
+          <div id="slideNumber13" style="display: none;">13</div>
+        </div>
+        <div id="slideImage9" class="slide" style="display: none">
+          <img alt="" size="440x316" src="https://depan.s3.amazonaws.com/slide_image/file/154/alquife_14.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber9" style="display: none;">9</div>
+        </div>
+        <div id="slideImage14" class="slide" style="display: none">
+          <img alt="" size="440x316" src="https://depan.s3.amazonaws.com/slide_image/file/155/alquife_15.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber14" style="display: none;">14</div>
+        </div>
+        <div id="slideImage4" class="slide" style="display: none">
+          <img alt="se plantea rellenar los espacios donde se almacenaba el mineral, de diferentes estratos de terreno vegetal que permitan crear el parque en la parte superior" size="395x380" src="https://depan.s3.amazonaws.com/slide_image/file/330/alquife_02.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>se plantea rellenar los espacios donde se almacenaba el mineral, de diferentes estratos de terreno vegetal que permitan crear el parque en la parte superior</p>
+
+          </div>
+          <div id="slideNumber4" style="display: none;">4</div>
+        </div>
+  </div>
+
+  <div id="slide_controls" class="card_element">
+    <a id="slideFirst" class="arrow" href="#"><img alt="primera" src="/images/arrowleft1-02a0feef.gif" /></a>
+    <a id="slidePrev" class="arrow" href="#"><img alt="anterior" src="/images/arrowleft2-629713c3.gif" /></a>
+    &nbsp;<span id="number_control"></span> / <span>15</span>&nbsp;
+    <a id="slideNext" class="arrow" href="#"><img alt="siguiente" src="/images/arrowright1-842aef87.gif" /></a>
+    <a id="slideLast" class="arrow" href="#"><img alt="última" src="/images/arrowright2-50f8cf92.gif" /></a>
+  </div>
+</div>
+
+      </div>
+    </div>
+    <script src="/javascripts/application-6fdb9dbc.js" type="text/javascript"></script>
+    <!-- Facebook -->
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/es_ES/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+    try {
+        var pageTracker = _gat._getTracker("UA-1584724-6");
+        pageTracker._trackPageview();
+    } catch(err) {
+    }
+</script>
+<div style="display:none" id="APP-VERSION">1.2.0 </div>
+
+  </body>
+</html>

@@ -1,0 +1,10 @@
+<div class="mini_slide" style="border-color: #EC341D;">
+  <div class="mini_image">
+    <img id="preview_image" src="https://depan.s3.amazonaws.com/slide_image/file/172/thumb_cuberta_03.jpg" />
+  </div>
+      <div class="mini_text" style="color: #EC341D;">
+        <p>arriba hay un estudio que da a una terraza para salir</p>
+
+      </div>
+</div>
+

@@ -1,0 +1,10 @@
+<div class="mini_slide" style="border-color: #9B6B1B;">
+  <div class="mini_image">
+    <img id="preview_image" src="https://depan.s3.amazonaws.com/slide_image/file/433/thumb_contenedor_10.jpg" />
+  </div>
+      <div class="mini_text" style="color: #9B6B1B;">
+        <p>los productos de cada pais se exponen en un baul-flycase, cada uno de un color</p>
+
+      </div>
+</div>
+

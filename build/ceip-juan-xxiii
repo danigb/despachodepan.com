@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="description" content="Despacho de pan web site">
+    <meta name="author" content="La panadería s.l.c">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="timestamp" content="2014-09-02 17:18:42 +0200">
+<title>l a p a n a d e r í a : </title>
+    <link href="/stylesheets/application-aefcba77.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body id="cards">
+    <div id="central">
+      <div id="playground">
+        <a href="/lapanaderia" id="logo">La Panadería</a>
+        <div id="social">
+  <div class="fb-like" data-href="http://despachodepan.con" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false"></div>
+  <div class="buttons">
+    <a class="facebook" href="https://www.facebook.com/pages/Lapanaderia-arquitectura/130813683683669">La panadería en facebook</a>
+    <a class="twitter" href="http://twitter.com/#!/despachodepan">La panadería en twitter</a>
+    <a class="linkedin" href="http://www.linkedin.com/company/lapanaderia-arquitectura-y-dise-o">La panadería en linkedin</a>
+    <a class="flickr" href="http://www.flickr.com/photos/lapanaderia-arquitectura/sets/">La panadería en flickr</a>
+    <span class="cc">Algunos derechos reservados</span>
+  </div>
+</div>
+
+        <ul id="tabs">
+  <li id="nav-actual" class=""><a href="/">noticias</a></li>
+  <li id="nav-seleccion" class=""><a href="/que-hacemos">qué hacemos</a></li>
+  <li id="nav-indice" class=""><a href="/procesos">procesos</a></li>
+  <li id="nav-panaderia" class="">
+    <a href="/lapanaderia">quiénes somos</a>
+  </li>
+  <li id="nav-casamasomenos" class="">
+    <a href="/casa-mas-o-menos">casamasomenos</a>
+  </li>
+</ul>
+
+
+        <style type="text/css">
+    #slide_controls a.selected {
+        color: #607FB7;
+    }
+
+    #tabs li {
+        border-bottom: 1px solid #607FB7;
+    }
+</style>
+
+
+<div id="title" style=" border-left: 1px solid #607FB7; border-top: 1px solid #607FB7; border-right: 1px solid #607FB7">
+  <span style="color: #607FB7;">ceip juan XXIII</span>
+</div>
+
+<div id="card" style="border: 1px solid #607FB7;"
+ data-card-id="13" data-card-slug="ceip-juan-xxiii">
+<div id="properties" class="card_element"
+   style="background-color: #E8F1F9; color: #607FB7;">
+
+<div id="files" style="top: 191px;">
+      <div class="prop_separator">&nbsp;</div>
+      <div class="card_file">
+        <img src="/images/file-22e66952.gif" />
+        <div><a popup="[&quot;_blank&quot;]" style="color: #607FB7;" href="https://depan.s3.amazonaws.com/pan_file/file/732/do010_comedor_juan_xxiii_planos.pdf">planos A3</a>    </div>
+      </div>
+      <div class="prop_separator">&nbsp;</div>
+      <div class="card_file">
+        <img src="/images/file-22e66952.gif" />
+        <div><a popup="[&quot;_blank&quot;]" style="color: #607FB7;" href="https://depan.s3.amazonaws.com/pan_file/file/819/do010_comedor_juan_xxiii.pdf">ficha resumen</a>    </div>
+      </div>
+</div>
+
+
+
+    <div class="prop_name">uso</div>
+    <div class="prop_value"><p>docente</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name">lugar</div>
+    <div class="prop_value"><p>sevilla</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name">superficie</div>
+    <div class="prop_value"><p>280 m2</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name">promotor</div>
+    <div class="prop_value"><p>ente público de infraestructuras y servicios educativos</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name">colaboradores</div>
+    <div class="prop_value"><p>esperanza moreno cruz</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name">estructura</div>
+    <div class="prop_value"><p>duarte asociados s.l.</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+    <div class="prop_name">arquitecto tecnico</div>
+    <div class="prop_value"><p>jesus miguel villa</p>
+</div>
+    <div class="prop_separator">&nbsp;</div>
+
+</div>
+
+
+<div id="main_image" class="card_element">
+<img src="https://depan.s3.amazonaws.com/main_image/file/20/main.jpg" />
+</div>
+
+
+<div id="main_text" class="card_element">
+<div id="text_flow">
+  <p>La propuesta para la construcción de varios comedores en diferentes colegios de Sevilla parte de dos condicionantes. Por un lado un bajo presupuesto de ejecución material, por otro la necesidad de que sean ejecutados rápidamente ya que en muchos casos la necesidad de utilización de estos espacios es inminente. </p>
+
+<p>Por ello se decide plantear un “tipo” que se va adaptando al contexto especifico de cada colegio, planteando un espacio semiabierto de transición para los niños, que va tomando forma de patio o galeria según donde se situa.</p>
+
+<p>Se parte de la forma y estructura de una “nave industrial”, lo que nos permite cubrir un espacio de grandes luces con un bajo costo.</p>
+
+<p>El exterior del comedor se plantea de forma sencilla y resistente, mientras que el interior es mas calido y acogedor, mediante lucernarios cenitales que se adaptan y varian con las cerchas metalicas, recubiertas de tableros de madera de fibras orientadas (OSB) con aislamiento  incorporado.</p>
+
+<p>El suelo y el zocalo interior se resuelven con un pavimento de vinilo. El exterior blanco se mantiene y el interior va cambiendo de color según la situación del comedor.</p>
+
+<p>En el comedor ubicado en el CEIP Juan XXIII, el edificio se sitúa en la parte trasera de la zona de espacios libres de la parcela. Se plantea el edificio “tipo” con una tercera crujía añadida. Esta tercera crujía nos permite generar un porche delantero vinculado con el acceso desde el interior del colegio y una zona trasera con un acceso de servicio para cátering.</p>
+
+</div>
+</div>
+<div id="scroll_down" class="scrollers" style="display: none"></div>
+<div id="scroll_up" class="scrollers" style="display: none"></div>
+
+
+<!-- slides -->
+  <div id="slides" class="card_element"
+       data-firstId="95"
+       data-lastId="554">
+        <div id="slideImage1" class="slide" style="display: none">
+          <img alt="" size="397x403" src="https://depan.s3.amazonaws.com/slide_image/file/95/juan_xxiii_01.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber1" style="display: none;">1</div>
+        </div>
+        <div id="slideImage2" class="slide" style="display: none">
+          <img alt="comedor en ceip juan XXIII, sevilla" size="443x217" src="https://depan.s3.amazonaws.com/slide_image/file/179/juan_xxiii_02.jpg" />
+          <div class="slide_text" style="text-align: left">
+            <p>comedor en ceip juan XXIII, sevilla</p>
+
+          </div>
+          <div id="slideNumber2" style="display: none;">2</div>
+        </div>
+        <div id="slideImage3" class="slide" style="display: none">
+          <img alt="" size="420x200" src="https://depan.s3.amazonaws.com/slide_image/file/518/juan_xxiii_04.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber3" style="display: none;">3</div>
+        </div>
+        <div id="slideImage4" class="slide" style="display: none">
+          <img alt="" size="420x131" src="https://depan.s3.amazonaws.com/slide_image/file/519/juan_xxiii_03.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber4" style="display: none;">4</div>
+        </div>
+        <div id="slideImage5" class="slide" style="display: none">
+          <img alt="" size="415x217" src="https://depan.s3.amazonaws.com/slide_image/file/548/juan_xxiii_05.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber5" style="display: none;">5</div>
+        </div>
+        <div id="slideImage7" class="slide" style="display: none">
+          <img alt="" size="415x311" src="https://depan.s3.amazonaws.com/slide_image/file/549/juan_xxiii_06.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber7" style="display: none;">7</div>
+        </div>
+        <div id="slideImage6" class="slide" style="display: none">
+          <img alt="" size="415x311" src="https://depan.s3.amazonaws.com/slide_image/file/550/juan_xxiii_07.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber6" style="display: none;">6</div>
+        </div>
+        <div id="slideImage8" class="slide" style="display: none">
+          <img alt="" size="314x420" src="https://depan.s3.amazonaws.com/slide_image/file/551/juan_xxiii_08.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber8" style="display: none;">8</div>
+        </div>
+        <div id="slideImage9" class="slide" style="display: none">
+          <img alt="" size="415x311" src="https://depan.s3.amazonaws.com/slide_image/file/552/juan_xxiii_09.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber9" style="display: none;">9</div>
+        </div>
+        <div id="slideImage10" class="slide" style="display: none">
+          <img alt="" size="415x312" src="https://depan.s3.amazonaws.com/slide_image/file/553/juan_xxiii_10.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber10" style="display: none;">10</div>
+        </div>
+        <div id="slideImage11" class="slide" style="display: none">
+          <img alt="" size="415x180" src="https://depan.s3.amazonaws.com/slide_image/file/554/juan_xxiii_11.jpg" />
+          <div class="slide_text" style="text-align: left">
+            
+          </div>
+          <div id="slideNumber11" style="display: none;">11</div>
+        </div>
+  </div>
+
+  <div id="slide_controls" class="card_element">
+    <a id="slideFirst" class="arrow" href="#"><img alt="primera" src="/images/arrowleft1-02a0feef.gif" /></a>
+    <a id="slidePrev" class="arrow" href="#"><img alt="anterior" src="/images/arrowleft2-629713c3.gif" /></a>
+    &nbsp;<span id="number_control"></span> / <span>11</span>&nbsp;
+    <a id="slideNext" class="arrow" href="#"><img alt="siguiente" src="/images/arrowright1-842aef87.gif" /></a>
+    <a id="slideLast" class="arrow" href="#"><img alt="última" src="/images/arrowright2-50f8cf92.gif" /></a>
+  </div>
+</div>
+
+      </div>
+    </div>
+    <script src="/javascripts/application-6fdb9dbc.js" type="text/javascript"></script>
+    <!-- Facebook -->
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/es_ES/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+    try {
+        var pageTracker = _gat._getTracker("UA-1584724-6");
+        pageTracker._trackPageview();
+    } catch(err) {
+    }
+</script>
+<div style="display:none" id="APP-VERSION">1.2.0 </div>
+
+  </body>
+</html>

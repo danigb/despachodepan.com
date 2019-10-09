@@ -1,0 +1,10 @@
+<div class="mini_slide" style="border-color: #327D25;">
+  <div class="mini_image">
+    <img id="preview_image" src="https://depan.s3.amazonaws.com/slide_image/file/397/thumb_15.jpg" />
+  </div>
+      <div class="mini_text" style="color: #327D25;">
+        <p>la mayoria de forjados se sustituyeron</p>
+
+      </div>
+</div>
+

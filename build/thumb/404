@@ -1,0 +1,10 @@
+<div class="mini_slide" style="border-color: #44C0A5;">
+  <div class="mini_image">
+    <img id="preview_image" src="https://depan.s3.amazonaws.com/slide_image/file/404/thumb_textos_00.jpg" />
+  </div>
+      <div class="mini_text" style="color: #44C0A5;">
+        <p>articulos sobre arquitectura, publicados en la revista mu</p>
+
+      </div>
+</div>
+

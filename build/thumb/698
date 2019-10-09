@@ -1,0 +1,10 @@
+<div class="mini_slide" style="border-color: #FF9C00;">
+  <div class="mini_image">
+    <img id="preview_image" src="https://depan.s3.amazonaws.com/slide_image/file/698/thumb_01.jpg" />
+  </div>
+      <div class="mini_text" style="color: #FF9C00;">
+        <p>talleres participativos huevar</p>
+
+      </div>
+</div>
+
