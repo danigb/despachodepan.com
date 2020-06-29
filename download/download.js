@@ -1,16 +1,29 @@
+const stream = require("stream");
+const { promisify } = require("util");
 const fs = require("fs");
+const got = require("got");
 
+const pipeline = promisify(stream.pipeline);
 const PREFIX = "http://depan.s3.amazonaws.com/";
 
 main();
 
 async function main() {
-  const files = fs.readFileSync("files.txt").toString().split("\n");
-  console.log(files[0]);
-  for (file of files.slice(0, 10)) {
-    const path = file.slice(PREFIX.length);
-    const dir = path.substring(0, path.lastIndexOf("/"));
+  const errors = [];
+  const urls = fs.readFileSync("urls-all.txt").toString().split("\n");
+  for (url of urls) {
+    const path = url.slice(PREFIX.length);
+    const dir = "images/" + path.substring(0, path.lastIndexOf("/"));
     await fs.promises.mkdir(dir, { recursive: true });
-    console.log(dir);
+    const output = "images/" + path;
+    console.log(output);
+    try {
+      await pipeline(got.stream(url), fs.createWriteStream(output));
+    } catch (error) {
+      console.log("ERROR", url);
+      errors.push(url);
+    }
   }
+  console.log(urls.length, errors.length);
+  console.log(errors);
 }

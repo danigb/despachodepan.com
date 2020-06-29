@@ -176,7 +176,6 @@ http://depan.s3.amazonaws.com/post/file/635/pizarra_web.jpg
 http://depan.s3.amazonaws.com/post/file/646/CARTEL_LA_PANADER_A_A3.jpg
 http://depan.s3.amazonaws.com/post/file/634/montevideo_charla.jpg
 http://depan.s3.amazonaws.com/post/file/633/comedores.jpg
-://fundacion.arquia.es/proxima/pub_foro.aspx
 http://depan.s3.amazonaws.com/post/file/628/29_programa_arquia.jpg
 http://depan.s3.amazonaws.com/pan_file/file/885/diptico_talleres_web.jpg.
 http://depan.s3.amazonaws.com/post/file/627/28_talleres_masomenos.jpg
