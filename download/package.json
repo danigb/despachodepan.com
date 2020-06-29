@@ -1,0 +1,15 @@
+{
+  "name": "images",
+  "version": "1.0.0",
+  "description": "",
+  "main": "download.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "danigb",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^11.3.0"
+  }
+}
